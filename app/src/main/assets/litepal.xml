@@ -1,0 +1,11 @@
+<litepal>
+	<dbname value="dao_weather"/>
+
+	<versiont value="1"/>
+
+	<list>
+		<mapping class="com.daoweather.android.db.Province"/>
+		<mapping class="com.daoweather.android.db.City"/>
+		<mapping class="com.daoweather.android.db.County"/>
+	</list>
+</litepal>
